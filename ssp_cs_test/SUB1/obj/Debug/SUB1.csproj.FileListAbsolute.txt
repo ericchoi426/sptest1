@@ -1,0 +1,7 @@
+D:\my.tct\ssp_workspace\ssp_cs_test\SUB1\obj\Debug\SUB1.csprojAssemblyReference.cache
+D:\my.tct\ssp_workspace\ssp_cs_test\SUB1\obj\Debug\SUB1.csproj.CoreCompileInputs.cache
+D:\my.tct\ssp_workspace\ssp_cs_test\SUB1\SP_TEST.exe.config
+D:\my.tct\ssp_workspace\ssp_cs_test\SUB1\obj\Debug\SP_TEST.exe
+D:\my.tct\ssp_workspace\ssp_cs_test\SUB1\obj\Debug\SP_TEST.pdb
+D:\my.tct\ssp_workspace\ssp_cs_test\SUB1\SP_TEST.exe
+D:\my.tct\ssp_workspace\ssp_cs_test\SUB1\SP_TEST.pdb
