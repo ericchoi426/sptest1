@@ -10,6 +10,21 @@ namespace SP_TEST
     {
         static void Main(string[] args)
         {
+            string folder = "./BIGFILE/";
+            string file_name = Console.ReadLine();
+            string input_file_path = folder + file_name;
+            string zip_file = folder + "CMP_" + file_name;
+            List<string> read = new List<string>();
+            if (CHelper.read_file_data(input_file_path, ref read))
+            {
+                CHelper.line_zip(zip_file, read);
+            }
+                        
+            List<string> zip_data = new List<string>();
+            if (CHelper.read_file_data(zip_file, ref zip_data))
+            {
+                CHelper.char_zip(zip_file, zip_data);
+            }
         }
     }
 }

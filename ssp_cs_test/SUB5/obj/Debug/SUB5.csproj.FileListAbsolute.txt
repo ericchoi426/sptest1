@@ -4,3 +4,10 @@ D:\my.tct\ssp_workspace\ssp_cs_test\SUB5\obj\Debug\SP_TEST.exe
 D:\my.tct\ssp_workspace\ssp_cs_test\SUB5\obj\Debug\SP_TEST.pdb
 D:\my.tct\ssp_workspace\ssp_cs_test\SUB5\SP_TEST.exe
 D:\my.tct\ssp_workspace\ssp_cs_test\SUB5\SP_TEST.pdb
+D:\my.tct\exam1\sptest1\ssp_cs_test\SUB5\obj\Debug\SUB5.csproj.CoreCompileInputs.cache
+D:\my.tct\exam1\sptest1\ssp_cs_test\SUB5\SP_TEST.exe.config
+D:\my.tct\exam1\sptest1\ssp_cs_test\SUB5\obj\Debug\SP_TEST.exe
+D:\my.tct\exam1\sptest1\ssp_cs_test\SUB5\obj\Debug\SP_TEST.pdb
+D:\my.tct\exam1\sptest1\ssp_cs_test\SUB5\SP_TEST.exe
+D:\my.tct\exam1\sptest1\ssp_cs_test\SUB5\SP_TEST.pdb
+D:\my.tct\exam1\sptest1\ssp_cs_test\SUB5\obj\Debug\SUB5.csprojAssemblyReference.cache
