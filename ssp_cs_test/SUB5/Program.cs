@@ -133,6 +133,7 @@ namespace SP_TEST
                             }
                             handler.Shutdown(SocketShutdown.Both);
                             handler.Close();
+                            break; // thread exit
                         }
 
                     }
@@ -150,7 +151,7 @@ namespace SP_TEST
             Thread workerThread = new Thread(workerObject.DoWork);
             workerThread.Start();
 
-            string strLine;
+            /*string strLine;
             while (true)
             {
                 strLine = Console.ReadLine();
@@ -160,7 +161,7 @@ namespace SP_TEST
                     listener.Close();
                     break;
                 }
-            }
+            }*/
 
             workerThread.Join();
         }
